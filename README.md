@@ -2,6 +2,7 @@
 ## Conocimientos sobre que es la ciberseguridad y conceptos básicos sobre la misma
 ## Finalización del Curso de introducción a la Ciberseguridad
 ## Finalización Curso de Triage Informático
+#### En este curso se aprende a detectar procesos maliciosos analizando los procesos de nuestro dispositivo
 ## Finalización Curso de Análisis de Malware
 ## Finalización Curso de Hacking con buscadores: Google, Bing y Shodan
 + En este curso he aprendido la diferencia entre un navegador(Opera, Firefox, Chrome) y un motor de búsqueda (google, bing).
