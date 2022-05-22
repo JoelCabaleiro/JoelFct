@@ -5,7 +5,7 @@
 En este curso se aprende a detectar procesos maliciosos analizando los procesos de nuestro dispositivo
 ## Finalización Curso de Análisis de Malware
 ## Finalización Curso de Hacking con buscadores: Google, Bing y Shodan
-+ En este curso he aprendido la diferencia entre un navegador(Opera, Firefox, Chrome) y un motor de búsqueda (google, bing).
++ Diferencia entre un navegador(Opera, Firefox, Chrome) y un motor de búsqueda (google, bing).
 + Conocer como realizar búsquedas más específicas mediante operadores lógicos y dorks. 
 + Concepto de fichero robots.txt
 #### Con este curso he aprendido como búscar mediante todo lo aprendido a como detectar posibles debilidades en las páginas por las cuales podrían producirse ataques.
