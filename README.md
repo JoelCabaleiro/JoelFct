@@ -1,6 +1,7 @@
 # JoelFct
 ## Conocimientos sobre que es la ciberseguridad y conceptos básicos sobre la misma
 ## Finalización del Curso de introducción a la Ciberseguridad
+Adquisición de conocimientos osbre la ciberseguridad.
 ## Finalización Curso de Triage Informático
 En este curso se aprende a detectar procesos maliciosos analizando los procesos de nuestro dispositivo
 ## Finalización Curso de Análisis de Malware
