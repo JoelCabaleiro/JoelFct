@@ -15,4 +15,6 @@ Con este curso he aprendido como búscar mediante todo lo aprendido a como detec
 ## Finalización Curso de Hacking Web
 En este curso he aprendido como se deben tratar los datos que introducen los usuarios en páginas web y los problemas que se producen si no se realiza.
 ## Finalización Curso de introducción a la Monitorización de Seguridad
+En este curso he aprendido caules son los activos que existen(atacante, defensor) y los distintos métodos de monitorización.
 ## Finalización Curso de Desarrollo Seguro
+En Este curso he aprendido las prácticas que se deben llevar a cabo durante todo el proceso de desarrollo de una aplicación.
