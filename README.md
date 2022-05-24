@@ -106,3 +106,21 @@ Las fases por las que debe pasar un desarrollo son las siguientes
 + Mantenimiento
 
 En este curso se insta al uso de buenas prácticas como lo son el guardar los datos cifrados, validar toda las entradas de los usuarios, realizar un buen control de sesiones, controlar el buffer overflow, el buen manejo de los ficheros , protección de datos de una base de datos mediante queries fuertemente parametrizadas y tener la configuración de la misma cerrada...
+
+## Finalizacion Curso de Hacking Tools: Blue Team
+
+En este curso he aprendido sobre el manejo de Linux, creando conexiones remotas, servidor proxy-caché mediante Squid, IPTables, Metasploit. 
++ Sobre el manejo de linux he repasado conceptos vistos durante el curso como la creación de usuarios, grupos, así como la gestión de permisos de los mismos.  
++ En la parte de acceso remoto he aprendido a la creación de un acceso remoto evitando el uso de telnet, ya que mediante este se establece una conexión insegura ya que es una conexión plana, utilizando ssh mediante la creación de una conexión por túnel.
++ Sobre squid he visto que es una herramienta para crear un servidor proxy-caché, esto es un servidor situado entre la máquina del usuario y otra red que actúa como protección separando las dos redes y como zona caché para acelerar el acceso a páginas web o poder restringir el acceso a contenidos. 
++ Las IPTables nos permiten tener el control total de un sitema Linux, controlando por ejemplo sus puertos, además de permitir obtener un log de ese sistema.
++ Metasploit es una herramienta con nos ayudas durante la etapa del hacking para atacar tanto a linux como windows. Existen dos conceptos que es importante diferenciar:
+++ Exploit
+++ Payload
+
+Es importante tener persistencia para permanecer en el equipo atacado el mayor tiempo posible, para esto tenemos recurrimos a backdoor con el objetivo de mantener una conexión con el sistema vulnerado.
+
+En pyton para pentesting he aprendido el uso de distintas librerías como Whois, DNS Python , Python Shodan para obtener información relevante  
+
+Durante este curso he aprendido a como utilizar esta herramienta para la realización de ataques
+
